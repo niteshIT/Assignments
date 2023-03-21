@@ -1,0 +1,14 @@
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\bin\Debug\newassignment2.1.exe.config
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\bin\Debug\newassignment2.1.exe
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\bin\Debug\newassignment2.1.pdb
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\obj\Debug\newassignment2.1.csproj.AssemblyReference.cache
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\obj\Debug\newassignment2.1.csproj.CoreCompileInputs.cache
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\obj\Debug\newassignment2.1.exe
+C:\Users\nitesh01\source\repos\newassignment2.1\newassignment2.1\obj\Debug\newassignment2.1.pdb
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\bin\Debug\newassignment2.1.exe.config
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\bin\Debug\newassignment2.1.exe
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\bin\Debug\newassignment2.1.pdb
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\obj\Debug\newassignment2.1.csproj.AssemblyReference.cache
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\obj\Debug\newassignment2.1.csproj.CoreCompileInputs.cache
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\obj\Debug\newassignment2.1.exe
+C:\C#assignments\Assignment3\newassignment3.1\newassignment2.1\obj\Debug\newassignment2.1.pdb
