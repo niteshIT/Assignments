@@ -1,0 +1,7 @@
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\obj\Debug\Assignment5_Exercise10.csproj.AssemblyReference.cache
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\obj\Debug\Assignment5_Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\bin\Debug\Assignment5_Exercise10.exe.config
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\bin\Debug\Assignment5_Exercise10.exe
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\bin\Debug\Assignment5_Exercise10.pdb
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\obj\Debug\Assignment5_Exercise10.exe
+C:\Users\nitesh01\source\repos\Assignment5_Exercise10\Assignment5_Exercise10\obj\Debug\Assignment5_Exercise10.pdb
